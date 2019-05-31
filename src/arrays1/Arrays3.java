@@ -14,7 +14,7 @@ public class Arrays3 {
         int[] arr = new int[3];
         
         int total = 0;
-        
+        /*test change */
         System.out.println("Enter the values of arrays you want to sum total of: ");
         
         for (int i =0; i<no; i++){
