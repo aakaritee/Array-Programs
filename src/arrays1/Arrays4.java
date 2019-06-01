@@ -1,8 +1,8 @@
- //Program to calculate the total sum of elements of an array
+//Program to calculate the average of the arrays
 package arrays1;
 import java.util.Scanner;
 
-public class Arrays3 {
+public class Arrays4 {
     public static void main(String[] args){
 
         Scanner input = new Scanner (System.in);
@@ -25,7 +25,9 @@ public class Arrays3 {
             total = total +i;
         }
         
-        System.out.println("The sum of the array is : " + total);
-
+       int average= 0;
+       average = total/no;
+        System.out.println("The average value of the array is : " + average);
+        
 }
 }

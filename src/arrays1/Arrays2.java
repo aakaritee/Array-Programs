@@ -1,3 +1,4 @@
+//Program to get the smallest and largest values of the array
 package arrays1;
 import java.util.Scanner;
 public class Arrays2 {

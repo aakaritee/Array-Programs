@@ -1,4 +1,4 @@
-
+//Program to determine the smallest and the largest value of an array
 package arrays1;
 
 public class Arrays1 {
